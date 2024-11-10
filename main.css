@@ -1,0 +1,65 @@
+.main-container {
+    background-color: rgb(132, 231, 220);
+}
+
+.left-sec {
+    background-color:rgb(12, 124, 111);
+    width: 400px;
+    height: 1200px;
+}
+
+h2 {
+    background-color: #2a9;
+    color: white;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+ 
+.left-sec h2 {
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.image {
+    width: 300px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 50px;
+    border-radius:14px ;
+}
+
+
+.left-sec p {
+    color: #fff;
+    text-align: center;;
+    height: 20vh;
+    padding: 20px;
+}
+
+.skills li {
+    padding: 8px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.right-sec {
+    margin-left: 25px;
+   
+}
+
+.right-sec h1 {
+    color: #fff;
+    margin-left: 160px;
+}
+
+button{
+    width: 130px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #2a9;
+    color: #fff;
+    font-weight: bold;
+}
